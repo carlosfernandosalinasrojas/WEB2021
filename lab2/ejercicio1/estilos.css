@@ -1,0 +1,53 @@
+.contenedorForm{
+    background-color: rgb(0, 247, 255);
+    max-width: 40%;
+    margin-left: 25%;
+    margin-top: 10%;
+    height: 220px;
+    border-radius: 35px;
+}
+.contenedorForm h2{
+    color: white;
+    text-align: center;
+    font-size: 2rem;
+    padding-top: 20px;
+}
+.form1{
+    padding-top: 5px;
+    padding-left: 70px;
+}
+.form1 span{
+    font-size: 1.5rem;
+    margin-top: 20px;
+}
+.boton{
+    margin-top: 20px;
+    background-color: teal;
+    color: white;
+    font-size: 1rem;
+    margin-left: 20%;
+    width: 300px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+.boton:hover{
+    background-color: rgb(4, 207, 207);
+    color: blueviolet;
+}
+
+.tabla{
+    padding: 15px;
+    width: 120px;
+    border: solid 1px black;
+    text-align: left;
+    /* background-color: blueviolet; */
+}
+.superior{
+    background-color: blue;
+    color: white;
+}
+.lateral{
+    background-color: blue;
+    color: white;
+}
